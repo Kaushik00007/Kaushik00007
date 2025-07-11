@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushik00007&label=Profile%20views&color=0e75b6&style=flat" alt="kaushik00007" /> </p>
 
-- 🌱 I’m currently learning **Reactjs, AI, Full Stack, App Dev**
+- 🌱 I’m currently learning **AI, GCP, Full Stack, App Dev**
 
 - 💬 Ask me about **Android, Python, Automobiles**
 
